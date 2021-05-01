@@ -1,5 +1,4 @@
-[
-    {
+{
     "name": "Purrsloud",
     "species": "Cat",
     "favFoods": ["wet food", "dry food", "<strong>any</strong> food"],
@@ -19,4 +18,3 @@
     "birthYear": 2012,
     "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
   }
- ]
